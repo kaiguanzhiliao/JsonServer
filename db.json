@@ -1,8 +1,8 @@
 {
 "AllNum": {
 	"one": {
-		"url": "https://www.49jili.ph/?uagt=jackpot3&path=root",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"two": {
 		"url": "",
@@ -29,16 +29,16 @@
 		"isToPage": false
 	},
 	"eight": {
-		"url": "https://www.49jili.ph/?uagt=jackpot3&path=root",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"nine": {
-		"url": "https://www.49jili.ph/?uagt=jackpot3&path=root",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	},
 	"ten": {
-		"url": "https://www.49jili.ph/?uagt=jackpot3&path=root",
-		"isToPage": true
+		"url": "",
+		"isToPage": false
 	}
     }
 }
