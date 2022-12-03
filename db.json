@@ -1,12 +1,12 @@
 {
 "AllNum": {
 	"one": {
-		"url": "",
-		"isToPage": false
+		"url": "https://www.49jili.ph/?uagt=gx111&path=root",
+		"isToPage": true
 	},
 	"two": {
-		"url": "",
-		"isToPage": false
+		"url": "https://www.49jili.ph/?uagt=gx112&path=root",
+		"isToPage": true
 	},
 	"three": {
 		"url": "",
@@ -29,12 +29,12 @@
 		"isToPage": false
 	},
 	"eight": {
-		"url": "",
-		"isToPage": false
+		"url": "https://www.49jili.ph/?uagt=gx110&path=root",
+		"isToPage": true
 	},
 	"nine": {
-		"url": "",
-		"isToPage": false
+		"url": "https://www.49jili.ph/?uagt=gx113&path=root",
+		"isToPage": true
 	},
 	"ten": {
 		"url": "",
